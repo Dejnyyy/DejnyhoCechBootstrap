@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
+    background-color: #fcfcfc;
+}
+body{
+    background-color: #fcfcfc;
+}
+.navbarstyl>div>a{
+    margin-left:5%;
+}
+.navbarstyl>div>div>ul{
+    margin-left:5%;
+}
+.col-12{
+    background-color: #fff;
+    padding: 0;
+}
+.news{
+    padding-top: 5%;
+    width: 100%;
+    color:#29497d;
+    text-decoration: none;
+}
+.news>a{
+    color:#29497d;
+    text-decoration: none;
+    font-size: 4rem;
+}
