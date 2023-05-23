@@ -43,8 +43,8 @@
     padding-bottom: 2rem;
 }
 .textova-diva{
-    padding-left: 14rem;
-    padding-right: 14rem;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 .card-body{
     background-color: #29497d;
@@ -105,4 +105,24 @@
     background-color: white;
     color: #29497d;
     border: 1px solid #29497d;
+}
+.project>a{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-decoration: none;
+    color: #29497d;
+    font-size: 4rem;
+    
+}
+.project{
+    padding-top:3rem;
+    padding-bottom:3rem ;
+}
+.hora{
+    margin-top:3rem;
+}
+.obrz-4{
+    width: 100%;
+    height: 100%;
+    
 }
