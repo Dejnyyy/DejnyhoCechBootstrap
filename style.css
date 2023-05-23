@@ -2,14 +2,9 @@
     margin: 0;
     padding: 0;
     color: black;
-    background-color: #fcfcfc;
 }
-body{
-    background-color: #fcfcfc;
-}
-html{
-    background-color: #fcfcfc;
-}
+
+
 .navbarstyl>div>a{
     margin-left:5%;
 }
@@ -21,7 +16,7 @@ html{
     padding: 0;
 }
 .news{
-    padding-top: 5%;
+    padding-bottom: 5%;
     width: 100%;
     color:#29497d;
     text-decoration: none;
@@ -40,5 +35,50 @@ html{
     padding: 0.5rem 1rem;
     font-size: 1.5rem;
     margin-top: 5rem;
-    margin-bottom: 5rem;
+    margin-bottom: 3rem;
+}
+.greyground{
+    background-color:#f0f0f0;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.textova-diva{
+    padding-left: 14rem;
+    padding-right: 14rem;
+}
+.card-body{
+    background-color: #29497d;
+    color: white;
+}
+.card-body>p{
+    color: white;
+    text-decoration: none;
+}
+.card-body>h5{
+    color: white;
+    text-decoration: none;
+}
+.card-body>a{
+    color: white;
+    text-decoration: none;
+    background-color: #29497d;
+    border: 1px solid white;
+}
+.card-body>a:hover{
+    color: white;
+    text-decoration: none;
+    background-color: #29497d;
+    border: 1px solid white;
+}
+.card-body>a:active{
+    color: white;
+    text-decoration: none;
+    background-color: #29497d;
+    border: 1px solid white;
+}
+.afternews>button{
+    color: #29497d;
+    text-decoration: none;
+    background-color: white;
+     border: 1px solid #29497d;
 }
