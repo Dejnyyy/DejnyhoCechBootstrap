@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
     color: black;
+    
+}
+html{
+    overflow-x: hidden;
 }
 .navbarstyl>div>a{
     margin-left:5%;
@@ -137,4 +141,23 @@
 }
 .botbar>div>div{
     background-color: #01274e;
+   
+}
+.col-3p>p{
+    color: white;
+    margin: 0px;
+}
+.botrow{
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+.col-3p{
+    margin: 0px;
+    margin-left: 5.3rem;
+    
+}
+.pname{
+    font-size: 1rem;
+    font-weight: bold;
 }
