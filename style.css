@@ -146,6 +146,7 @@ html{
 .botrow{
     padding-left: 10%;
     padding-right: 10%;
+    padding-bottom: 7rem;
 }
 .col-3p{
     margin: 0px;
@@ -154,4 +155,24 @@ html{
 .pname{
     font-size: 1rem;
     font-weight: bold;
+}
+.footer{
+    padding-top: 1rem;
+    padding-bottom: 1rem;   
+}
+.footer>a{
+    text-decoration: none;
+    color: white;
+}
+.botbarb{
+    background-color: #014992;
+}
+.footer{
+    background-color: #014992;
+}
+.botrow{
+    padding-top:3rem;
+}
+.pcontent{
+    font-size: 0.75rem;
 }
