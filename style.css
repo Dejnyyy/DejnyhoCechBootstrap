@@ -6,6 +6,9 @@
 html{
     overflow-x: hidden;
 }
+.hoverbald:hover{
+    font-weight: bold;
+}
 .navbarstyl>div>a{
     margin-left:5%;
 }
@@ -185,8 +188,33 @@ contact.html
 }
 .row1>div{
     text-align: left;
-
 }
 .row1{
-    margin: 5rem;
+    margin: 20px;
+    border-radius: 5px;
+    border: none;
+    width: 60%;
+    padding: 2rem;
+    box-shadow: 0px 0px 15px gray;
+    justify-content: center;
+    text-align: center;
+}
+.coll{
+    margin:2rem;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.contacty{
+    margin-top: 2rem;
+}
+.mail{
+    color: blue;
+}
+.tel{
+    color: blue;
+}
+.inf{
+    color:grey;
+    font-weight: normal;
+    font-size: 1rem;
 }
