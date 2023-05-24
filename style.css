@@ -3,8 +3,6 @@
     padding: 0;
     color: black;
 }
-
-
 .navbarstyl>div>a{
     margin-left:5%;
 }
@@ -24,18 +22,18 @@
 .news>a{
     color:#29497d;
     text-decoration: none;
-    font-size: 4rem;
+    font-size: 3rem;
 }
 .greyground>a{
     color:#29497d;
     text-decoration: none;
-    font-size: 4rem;
+    font-size: 3rem;
 }
 .btnnews{ 
     padding: 0.5rem 1rem;
     font-size: 1.5rem;
     margin-top: 5rem;
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
 }
 .greyground{
     background-color:#f0f0f0;
@@ -111,7 +109,7 @@
     padding-bottom: 2rem;
     text-decoration: none;
     color: #29497d;
-    font-size: 4rem;
+    font-size: 3rem;
     
 }
 .project{
@@ -121,7 +119,6 @@
 }
 .hora{
     margin-top:3rem;
-    
 }
 .obrz-4{
     width: 100%;
@@ -130,4 +127,14 @@
 }
 .afternews>button{
     margin-top:7rem;
+}
+.col-12a>a{
+    text-decoration: none;
+    color: white;
+}
+.botbar{
+    background-color: #01274e;
+}
+.botbar>div>div{
+    background-color: #01274e;
 }
