@@ -6,6 +6,9 @@
 html{
     overflow-x: hidden;
 }
+.navbar{
+    background-color: white;
+}
 .hoverbald:hover{
     font-weight: bold;
 }
