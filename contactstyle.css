@@ -1,0 +1,56 @@
+
+.contacty{
+    margin-top: 6rem;
+}
+.mail{
+    color: blue;
+    cursor: pointer;
+    width: fit-content;
+}
+.tel{
+    color: blue;
+    width: fit-content;
+}
+.inf{
+    color:grey;
+    font-weight: normal;
+    font-size: 1rem;
+    width: fit-content;
+}
+.g-col-6{
+    margin: 20px;
+    border-radius: 5px;
+    border: none;
+    width: 60%;
+    padding: 2rem;
+    box-shadow: 0px 0px 15px gray;
+    justify-content: center;
+    text-align: center;
+}
+.footer{
+    background-color: #014992;
+}
+.footer{
+    padding-top: 1rem;
+    padding-bottom: 1rem;   
+}
+.footer>a{
+    text-decoration: none;
+    color: white;
+}
+
+.navbar{
+    background-color: white;
+}
+.navbradiv>ul>li>a{
+    font-size:1rem;
+}
+.hoverbald:hover{
+    font-weight: bold;
+}
+.navbarstyl>div>a{
+    margin-left:5%;
+}
+.navbarstyl>div>div>ul{
+    margin-left:5%;
+}
