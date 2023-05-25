@@ -1,26 +1,69 @@
-body {
-    padding-top: 40px;
+body{
+    overflow-x: hidden
+}
+.footer{
+    background-color: #014992;
+}
+.footer{
+    padding-top: 1rem;
+    padding-bottom: 1rem;   
+}
+.footer>a{
+    text-decoration: none;
+    color: white;
 }
 
-header {
-    background: #f5b335;
-    height: 40px;
-    position: fixed;
-    top: 0;
-    transition: top 0.2s ease-in-out;
-    width: 100%;
+.contacty{
+    margin-top: 6rem;
+}
+.mail{
+    color: blue;
+    cursor: pointer;
+    width: fit-content;
+}
+.tel{
+    color: blue;
+    width: fit-content;
+}
+.inf{
+    color:grey;
+    font-weight: normal;
+    font-size: 1rem;
+    width: fit-content;
 }
 
-.nav-up {
-    top: -40px;
+.kontakt{
+    background-color: white !important;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0px 0px 15px gray;
+    text-align: center;
 }
-
-main {
-   background:url(
-    data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAPklEQVQYV2O8dOnSfwYg0NPTYwTRuAAj0QqxmYBNM1briFaIzRbi3UiRZ75uNgUHGbfvabgfsHqGaIXYPAMAD8wgC/DOrZ4AAAAASUVORK5CYII=
-   ) repeat;
-    height: 2000px;
+.navbar{
+    background-color: white;
 }
-
-footer { background: #ddd;}
-* { color: transparent}
+.navbradiv>ul>li>a{
+    font-size:1rem;
+}
+.hoverbald:hover{
+    font-weight: bold;
+}
+.navbarstyl>div>a{
+    margin-left:5%;
+}
+.navbarstyl>div>div>ul{
+    margin-left:5%;
+}
+.main{
+    font-size:3rem;
+    margin:4rem ;
+    margin-top:10rem ;
+    font-family:'Roboto';
+}
+.main:hover{
+    text-decoration: none;
+    transition:2s;
+    text-decoration:#014992 underline;
+    
+   
+}
