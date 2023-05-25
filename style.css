@@ -24,12 +24,6 @@ html{
 .hoverbald:hover{
     font-weight: bold;
 }
-.navbarstyl>div>a{
-    margin-left:5%;
-}
-.navbarstyl>div>div>ul{
-    margin-left:5%;
-}
 .col-12{
     background-color: #fff;
     padding: 0;
@@ -108,6 +102,13 @@ html{
     background-color: white;
     border: 1px solid #29497d;
     font-weight: bold;
+    box-shadow: 0px 0px 10px #01274e;
+}
+.afternews>button:active{
+    background-color: #f0f0f0;
+    color: #29497d;
+    border: 1px solid #29497d;
+    box-shadow: 0px 0px 10px #01274e;
 }
 .textova-diva>button{
     color: #29497d;
@@ -120,12 +121,15 @@ html{
     color: black;
     border: 1px solid #29497d;
     font-weight: bold;
+    box-shadow: 0px 0px 10px #01274e;
 }
 .textova-diva>button:active{
     background-color: white;
     color: #29497d;
     border: 1px solid #29497d;
+    box-shadow: 0px 0px 10px #01274e;
 }
+
 .project>a{
     padding-top: 2rem;
     padding-bottom: 2rem;
@@ -201,6 +205,12 @@ html{
     width: 50%;
     height: 100px;
 }
-/*
-contact.html
-*/
+.novinka>div:hover{
+    box-shadow: 0px 0px 30px #01274e;
+    transition: 1s;
+    border: none;
+}
+.card-body{
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius: 5px;
+}
